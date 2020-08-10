@@ -6,4 +6,4 @@ Na tę pułapkę często łapią się programiści Java, nawet Seniorzy! Poznaj 
 
 Blog Javowiec.pl: https://javowiec.pl
 
-Post na blogu: https://javowiec.pl/narzedzia/darmowa-wirtualna-maszyna-dla-programisty-java/
+Post na blogu: https://javowiec.pl/java/optional-orelse-vs-orelseget
